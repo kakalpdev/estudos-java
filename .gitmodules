@@ -1,6 +1,3 @@
-[submodule "dio-trilha-java-basico"]
-	path = dio-trilha-java-basico
-	url = https://github.com/kakalpdev/dio-trilha-java-basico.git
 [submodule "sistema-smart-tv"]
 	path = sistema-smart-tv
 	url = https://github.com/kakalpdev/sistema-smart-tv.git
