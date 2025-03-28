@@ -4,3 +4,6 @@
 [submodule "introducao-java"]
 	path = introducao-java
 	url = https://github.com/kakalpdev/introducao-java.git
+[submodule "ContaBanco"]
+	path = ContaBanco
+	url = https://github.com/kakalpdev/ContaBanco.git
